@@ -30,9 +30,9 @@ Please ensure that you have set up a virtual environment before running the scri
 Additionally, an R script named `scriptaurocbarra.R` and 'wilcoxonanal.R' is included in the repository. This script produces a figure that is relevant to the paper. Please execute this script after running all the Python scripts mentioned above.
 
 ## Authors and Dates
-Inácio Gomes Medeiros, Isaac Campos Braga
+Inácio Gomes Medeiros, Isaac Campos-Braga
 
-Brain Insitute
+Brain Institute
 
 Federal University of Rio Grande do Norte
 
