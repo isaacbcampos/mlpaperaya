@@ -1,6 +1,6 @@
-# Code and Data for []
+# Code and Data for Screening biochemical changes induced by psychedelic ayahuasca in healthy subjects and patients with depression a machine learning approach
 
-This repository contains the code and data for reproducing the analysis presented in the scientific paper titled "Screening biochemical changes induced by psychedelic ayahuasca in healthy subjects and patients with depression a machine learning approach", published at [Jounal Name].
+This repository contains the code for reproducing the analysis presented in the scientific paper titled "Screening biochemical changes induced by psychedelic ayahuasca in healthy subjects and patients with depression a machine learning approach", published at [Jounal Name].
 
 ## Repository Structure
 
