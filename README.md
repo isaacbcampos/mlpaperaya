@@ -7,8 +7,6 @@ This repository contains the code and data for reproducing the analysis presente
 The repository is organized as follows:
 
 - **tables**: Contains the result tables generated during the analysis.
-- **figures**: Stores the figures generated during the analysis, which are included in the paper.
-- **data**: Contains the raw data collected from patients before and after treatment.
 - **LICENSE**: The license file specifying the GPLv3 license for the code in this repository.
 - **requirements.txt**: Lists the Python dependencies required to run the scripts.
 
@@ -29,7 +27,7 @@ The repository includes several Python scripts that need to be executed in a spe
 Please ensure that you have set up a virtual environment before running the scripts. You can use either virtualenv or poetry to create a virtual environment with the necessary dependencies specified in the requirements.txt file.
 
 ## R Script
-Additionally, an R script named `scriptaurocbarra.R` is included in the repository. This script produces a figure that is relevant to the paper. Please execute this script after running all the Python scripts mentioned above.
+Additionally, an R script named `scriptaurocbarra.R` and 'wilcoxonanal.R' is included in the repository. This script produces a figure that is relevant to the paper. Please execute this script after running all the Python scripts mentioned above.
 
 ## Authors and Dates
 Inácio Gomes Medeiros, Isaac Campos Braga
